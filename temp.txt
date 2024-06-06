@@ -1,0 +1,3 @@
+docker run --rm -it -v //d/dev_ops/nginx:/home nginx  bash -c "cp /etc/nginx/nginx.conf /home"
+docker pull bitnami/node:latest
+

@@ -2,7 +2,7 @@
 
 1.In reality we have a lot of work to do to be able to run a service:
 
-- by a domain
+- buy a domain
 - rent a vps
 - point domain to ip
 - create ssl/tls cert
